@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.video {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 6px;
+}
+
+#vid {
+	text-align: center;
+	font-size: 20px;
+	color: grey;
+}
+
+.bakha {
+	font-family: Verdana, seriff;
+	color: green;
+	
+}
+.ture {
+	text-align: center;
+}
+.main-text {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	text-align: justify;
+	text-indent: 20px;
+}
+.img-fluid {
+	margin-bottom: 10px;
+}
+.wrapper {
+	width: 70%;
+	margin: 20px auto;
+}
+.images h2 {
+	text-align: center;
+	font-size: 4.5em;
+} 
+.images {
+	width: 95%;
+}
+.images p {
+	font-size: 30px;
+	text-indent: 28px;
+	text-align: justify;
+	color: #446397;
+	font-family: 'Abril Fatface', cursive;
+	font-weight: 400;
+}
+.pic {
+	text-align: center;
+}
+.pic span {
+	display: block;
+}
+
+@media screen and { 
+	
+}
