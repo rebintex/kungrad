@@ -48,6 +48,9 @@
 	font-family: 'Abril Fatface', cursive;
 	font-weight: 400;
 }
+.pic img {
+	text-align: center;
+}
 .pic {
 	text-align: center;
 }
